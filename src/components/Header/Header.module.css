@@ -1,0 +1,12 @@
+.header{
+  grid-area: h;
+  background-color: white;
+}
+.wrap{
+  width: 1200px;
+  margin: 0 auto;
+}
+.header img{
+  width: 30px;
+  padding: 10px 20px;
+}
